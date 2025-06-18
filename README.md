@@ -172,7 +172,3 @@ python3 upload_vk.py \
 ```bash
 python3 upload_vk.py --help
 ```
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya. (Anda bisa membuat file LICENSE sendiri jika perlu).
